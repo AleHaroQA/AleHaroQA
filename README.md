@@ -10,7 +10,7 @@
     <a href="https://www.linkedin.com/in/alejandra-haro-qa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-### 🙋🏻‍♀️ Acerca de mí :
+### 🙋🏻‍♀️ Acerca de mí:
 
 - 📝 Trabajo en proyectos de testing freelance.
 
@@ -22,7 +22,7 @@
 
 ##
 
-<h3 align="left">🔨 Lenguajes y Herramientas</h3>
+<h3 align="left">🔨 Lenguajes y Herramientas:</h3>
 <p align="left"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
@@ -34,7 +34,7 @@
 
 ##
 
-### 📊 Stats :
+### 📊 Estadísticas:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AleHaroQA&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&locale=es)
 
