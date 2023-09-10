@@ -38,4 +38,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AleHaroQA&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&locale=es)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleHaroQA&theme=tokyonight&hide_border=true)](https://github.com/AleHaroQA/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleHaroQA&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/AleHaroQA/github-readme-stats)
