@@ -16,7 +16,7 @@
 
 - 📚 Aprendiendo **Java**, **Testing Automation**.
 
-- 👩🏻‍💻 Estudiante en **Egg Education** y **Globant University**.
+- 👩🏻‍💻 Estudiante en **Egg Cooperation** y **Globant University**.
 
 - 🗽 Speaking **B1** | Listening-Reading **C1**.
 
