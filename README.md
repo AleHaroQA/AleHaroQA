@@ -1,8 +1,9 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="200" />
-    <h1 align="center">Bienvenidos a mi perfil de GitHub 👋</h1>
-    <h3 align="center">Soy Analista QA Manual y actualmente curso "Quality Control + Automation" gracias a una beca otorgada por Globant. Por el momento estaré subiendo mis ejercicios de 
-      práctica del curso.</h3>
+    <h1 align="center" >Bienvenidos a mi perfil de GitHub 👋</h1>
+    <h3 align="center">Soy una QA Manual evolucionando hacia el mundo de la automatización. Actualmente estoy aprendiendo herramientas como Selenium, Cypress y Rest-Assured para llevar mis habilidades al siguiente nivel 🚀</h3>
+    <h3 align="center">Me encanta explorar nuevas tecnologías y estoy emocionada por compartir mi viaje de aprendizaje aquí en GitHub.</h3>
+    <h3 align="center">Mis repositorios se enfocan en los ejercicios de práctica del curso "QC+Automation" que es parte de la beca Code Your Future de Globant.</h3>
 </div>
 
 <div align="center"> 
@@ -14,9 +15,11 @@
 
 - 📝 Trabajo en proyectos de testing freelance.
 
-- 📚 Aprendiendo **Java**, **Testing Automation**.
+- 💼 <a href="https://aleharo.notion.site/Proyecto-final-Alejandra-Haro-1b3bcc5de2e0482aaf6340538af46976?pvs=4" target="_blank">Proyecto de testing manual</a> 
 
-- 👩🏻‍💻 Estudiante en **Globant University** y **Egg Cooperation**.
+- 📚 Aprendiendo **Java**, **Javascript**, **Testing Automation**.
+
+- 👩🏻‍💻 Estudiante en **Globant University** y **Egg Live**.
 
 - 🗽 Speaking **B1** | Listening-Reading **C1**.
 
